@@ -37,11 +37,11 @@ int numSort;
     }
 
 
-    cout<<"GGGGGGG  AAAAAA  MM    MM   EEEEEEE     GGGGGGG   U    U   EEEEEEE   SSSSSS   SSSSSS   II   NN    N   GGGGGGG        |??????|"<<endl;
-    cout<<"GGG      A    A  M M  M M   E           GGG       U    U   E         S        S        II   N N   N   GGG            |?    ?|"<<endl;
-    cout<<"GGGGGGG  AAAAAA  M  MM  M   EEEEEE      GGGGGGG   U    U   EEEEEE    SSSSSS   SSSSSS   II   N  N  N   GGGGGGG        |  ????|"<<endl;
-    cout<<"GGG  GG  A    A  M      M   E           GGG  GG   U    U   E              S        S   II   N   N N   GGG  GG        |  ?   |"<<endl;
-    cout<<"GGGGGGG  A    A  M      M   EEEEEEE     GGGGGGG   UUUUUU   EEEEEEE   SSSSSS   SSSSSS   II   N    NN   GGGGGGG        |  O   |"<<endl;
+    cout<<"GGGGGGG   U    U   EEEEEEE   SSSSSS   SSSSSS   II   NN    N   GGGGGGG       GGGGGGG  AAAAAA  MM    MM   EEEEEEE        |??????|"<<endl;
+    cout<<"GGG       U    U   E         S        S        II   N N   N   GGG           GGG      A    A  M M  M M   E              |?    ?|"<<endl;
+    cout<<"GGGGGGG   U    U   EEEEEE    SSSSSS   SSSSSS   II   N  N  N   GGGGGGG       GGGGGGG  AAAAAA  M  MM  M   EEEEEE         |  ????|"<<endl;
+    cout<<"GGG  GG   U    U   E              S        S   II   N   N N   GGG  GG       GGG  GG  A    A  M      M   E              |  ?   |"<<endl;
+    cout<<"GGGGGGG   UUUUUU   EEEEEEE   SSSSSS   SSSSSS   II   N    NN   GGGGGGG       GGGGGGG  A    A  M      M   EEEEEEE        |  O   |"<<endl;
 
     cout<<"\n -EXPAND SCREEN"<<endl;
 
