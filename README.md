@@ -6,7 +6,7 @@
  
 
  # About this Program <!---write here : talk a little about project: what's does, example.  -->
-  This program was an idea based on cards magic that i did when children. 
+  This program was an idea based on cards magic that i did when kid. 
   
   It's follow the same logic and strategy to guess the number the person thought.
   
