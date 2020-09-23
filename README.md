@@ -35,31 +35,31 @@ It was my first personal program. I felt happiest person in the world when I saw
  
  
  <p align="center">
- <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/JOGO%20DA%20ADIVINHAÇÃO/IMGs/FirstStep_CardMagic.png" height="600" width="710" >
+ <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/GuessingGame/IMGs/FirstStep_CardMagic.png" height="600" width="710" >
 </p>
  
   <p align="center">
- <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/JOGO%20DA%20ADIVINHAÇÃO/IMGs/SecondStep_CardMagic.png" align="center" height="600" width="710" >
+ <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/GuessingGame/IMGs/SecondStep_CardMagic.png" align="center" height="600" width="710" >
 </p>
 
  <p align="center">
- <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/JOGO%20DA%20ADIVINHAÇÃO/IMGs/ThirdStep_CardMagic.png" align="center" height="600" width="710" >
+ <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/GuessingGame/IMGs/ThirdStep_CardMagic.png" align="center" height="600" width="710" >
 </p>
 
  <p align="center">
- <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/JOGO%20DA%20ADIVINHAÇÃO/IMGs/FourthStep_CardMagic.png" align="center" height="600" width="710" >
+ <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/GuessingGame/IMGs/FouthStep_CardMagic.png" align="center" height="600" width="710" >
 </p>
 
  <p align="center">
- <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/JOGO%20DA%20ADIVINHAÇÃO/IMGs/FifthStep_CardMagic.png" align="center" height="600" width="710" >
+ <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/GuessingGame/IMGs/FifthStep_CardMagic.png" align="center" height="600" width="710" >
 </p>
 
  <p align="center">
- <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/JOGO%20DA%20ADIVINHAÇÃO/IMGs/SixthStep_CardMagic.png" align="center" height="600" width="710" >
+ <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/GuessingGame/IMGs/SixthStep_CardMagic.png" align="center" height="600" width="710" >
 </p>
 
  <p align="center">
- <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/JOGO%20DA%20ADIVINHAÇÃO/IMGs/SeventhStep_CardMagic.png" align="center" height="600" width="710" >
+ <img src="https://github.com/DIGOARTHUR/Cpp-01-GuessingGame/blob/master/GuessingGame/IMGs/SeventhStep_CardMagic.png" align="center" height="600" width="710" >
 </p>
 
 
